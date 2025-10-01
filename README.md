@@ -9,7 +9,7 @@ Some projects are available **publicly in this repo**, while others are kept **p
 
 ## 📂 Projects
 
-### 🔐 [Kali Linux Cybersecurity Home Lab](honeypot-project/README.md) — *July 2025*
+### 🔐 [Kali Linux Cybersecurity Home Lab](Kali%20Linux%20Cybersecurity%20Home%20Lab) — *July 2025*
 - Deployed honeypots using **Cowrie** to detect and log unauthorized access attempts.  
 - Configured a **private VPN** to secure remote access and isolate lab traffic.  
 - Integrated a **self-hosted cloud server (NextCloud)** for secure file sharing.  
@@ -17,7 +17,7 @@ Some projects are available **publicly in this repo**, while others are kept **p
 
 ---
 
-### 🏠 [Home Automation IoT Project](home-automation/README.md) — *Jan 2024*
+### 🏠 [Home Automation IoT Project](Home%20Automation%20IoT%20Project/README.md) — *Jan 2024*
 - Built a **smart home automation system** using Arduino Uno WIFI R4, Arduino IoT Cloud, and Amazon Alexa.  
 - Automated lights, fans, curtains, and door locks using **servos, sensors, and 3D-printed parts**.  
 - Enabled **voice control via Alexa** for seamless smart home integration.  
@@ -45,18 +45,6 @@ Some projects are available **publicly in this repo**, while others are kept **p
 - **Hardware & IoT:** Raspberry Pi, Arduino, FPGA design, PCB testing  
 - **Concepts:** Operating Systems, Robotics, Embedded Systems, Signal Processing, Network Security  
 
----
-
-## 📖 How to Navigate
-- Public projects are available in this repository:  
-  - [`honeypot-project`](honeypot-project/)  
-  - [`home-automation`](home-automation/)  
-
-- Private projects (available upon request):  
-  - OS Kernel Design  
-  - UR3 Robotics (Computer Vision & Kinematics)  
-
----
 
 ## 📌 About Me
 I’m **Bhanu Kunam**, a Computer Engineering student at the University of Illinois Urbana-Champaign with interests in **cybersecurity, systems engineering, and electronic warfare**. I am in the process of obtaining a **Top Secret Security Clearance**, am pursuing a career in the **Space Force**, and hold certifications including **CompTIA Security+** and the **Google Cybersecurity Professional Certificate**.  
