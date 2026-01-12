@@ -17,6 +17,13 @@ Some projects are available **publicly in this repo**, while others are kept **p
 
 ---
 
+### 🎮 [FPGA-Based TETRIS Game](Tetris/README.md) — *Dec 2025*
+- Developed a **hardware-based Tetris game** on an FPGA using SystemVerilog with HDMI video output.
+- Implemented core mechanics like **gravity, collision detection, and scoring** using custom Finite State Machines. 
+- Integrated **USB keyboard input** for player control and a **PWM audio engine** for music and sound effects
+
+---
+
 ### 🏠 [Home Automation IoT Project](Home%20Automation%20IoT%20Project/README.md) — *Jan 2024*
 - Built a **smart home automation system** using Arduino Uno WIFI R4, Arduino IoT Cloud, and Amazon Alexa.  
 - Automated lights, fans, curtains, and door locks using **servos, sensors, and 3D-printed parts**.  
