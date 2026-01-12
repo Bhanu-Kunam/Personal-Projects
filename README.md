@@ -17,7 +17,7 @@ Some projects are available **publicly in this repo**, while others are kept **p
 
 ---
 
-### 🎮 [FPGA-Based TETRIS Game](Tetris/README.md) — *Dec 2025*
+### 🎮 [FPGA-Based TETRIS Game](Tetris) — *Dec 2025*
 - Developed a **hardware-based Tetris game** on an FPGA using SystemVerilog with HDMI video output.
 - Implemented core mechanics like **gravity, collision detection, and scoring** using custom Finite State Machines. 
 - Integrated **USB keyboard input** for player control and a **PWM audio engine** for music and sound effects
