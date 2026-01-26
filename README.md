@@ -10,9 +10,9 @@ Some projects are available **publicly in this repo**, while others are kept **p
 ## 📂 Projects
 
 ### 🔐 [Kali Linux Cybersecurity Home Lab](Kali%20Linux%20Cybersecurity%20Home%20Lab) — *July 2025*
+- Developed an automated web vulnerability scanner in Python to crawl web applications and detect critical security flaws such as Command Injection, Reflected XSS, SQL Injection, and CSRF
 - Deployed honeypots using **Cowrie** to detect and log unauthorized access attempts.  
 - Configured a **private VPN** to secure remote access and isolate lab traffic.  
-- Developed an automated web vulnerability scanner in Python to crawl web applications and detect critical security flaws such as Command Injection, Reflected XSS, SQL Injection, and CSRF
 - Focused on enhancing skills in **network monitoring, incident response, and secure system administration**.  
 
 ---
