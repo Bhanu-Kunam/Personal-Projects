@@ -9,7 +9,7 @@ Some projects are available **publicly in this repo**, while others are kept **p
 
 ## 📂 Projects
 
-### 🔐 [Kali Linux Cybersecurity Home Lab](Kali%20Linux%20Cybersecurity%20Home%20Lab) — *July 2025*
+### 🔐 [Kali Linux Cybersecurity Home Lab](Kali%20Linux%20Cybersecurity%20Home%20Lab) — *Dec 2025*
 - Developed an automated web vulnerability scanner in Python to crawl web applications and detect critical security flaws such as Command Injection, Reflected XSS, SQL Injection, and CSRF
 - Deployed honeypots using **Cowrie** to detect and log unauthorized access attempts.  
 - Configured a **private VPN** to secure remote access and isolate lab traffic.  
@@ -24,14 +24,7 @@ Some projects are available **publicly in this repo**, while others are kept **p
 
 ---
 
-### 🏠 [Home Automation IoT Project](Home%20Automation%20IoT%20Project/README.md) — *Jan 2024*
-- Built a **smart home automation system** using Arduino Uno WIFI R4, Arduino IoT Cloud, and Amazon Alexa.  
-- Automated lights, fans, curtains, and door locks using **servos, sensors, and 3D-printed parts**.  
-- Enabled **voice control via Alexa** for seamless smart home integration.  
-
----
-
-### 🔒 Custom Linux-like Operating System Design — *Private Repo (Available Upon Request)*
+### 🔒 Custom Linux-like Operating System Design — *Private Repo (Available Upon Request)* — *May 2025*
 - Built a Unix-like **OS kernel** in **C and RISC-V assembly** with a team of three.  
 - Implemented **pre-emptive multitasking, virtual memory, and user-mode processes**.  
 - Developed a **VirtIO MMIO block device driver** for virtual disk I/O.  
@@ -39,10 +32,17 @@ Some projects are available **publicly in this repo**, while others are kept **p
 
 ---
 
-### 🤖 UR3 Robot – Stacking Blocks with Computer Vision — *Private Repo (Available Upon Request)*
+### 🤖 UR3 Robot – Stacking Blocks with Computer Vision — *Private Repo (Available Upon Request)* — *May 2025*
 - Programmed a **Universal Robots UR3 robotic arm** in Python.  
 - Applied **homogeneous transformations, forward & inverse kinematics, and trajectory generation**.  
 - Integrated computer vision to autonomously **detect, grasp, and stack colored blocks**.  
+
+---
+
+### 🏠 [Home Automation IoT Project](Home%20Automation%20IoT%20Project/README.md) — *Jan 2024*
+- Built a **smart home automation system** using Arduino Uno WIFI R4, Arduino IoT Cloud, and Amazon Alexa.  
+- Automated lights, fans, curtains, and door locks using **servos, sensors, and 3D-printed parts**.  
+- Enabled **voice control via Alexa** for seamless smart home integration.  
 
 ---
 
