@@ -54,6 +54,5 @@ Some projects are available **publicly in this repo**, while others are kept **p
 
 
 ## 📌 About Me
-I’m **Bhanu Kunam**, a Computer Engineering student at the University of Illinois Urbana-Champaign with interests in **cybersecurity, systems engineering, and electronic warfare**. I am in the process of obtaining a **Top Secret Security Clearance**, am pursuing a career in the **Space Force**, and hold certifications including **CompTIA Security+** and the **Google Cybersecurity Professional Certificate**.  
-
+I’m **Bhanu Kunam**, a Computer Engineering student at the University of Illinois Urbana-Champaign with interests in **cybersecurity, systems engineering, and electronic warfare**.
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bhanuprakash-kunam) or explore my work here on GitHub!  
